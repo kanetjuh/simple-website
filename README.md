@@ -136,4 +136,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/kanetjuh/simple-website/issues
 [license-shield]: https://img.shields.io/github/license/kanetjuh/simple-website.svg?style=for-the-badge
 [license-url]: https://github.com/kanetjuh/simple-website/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.ibb.co/nwxhL3z/download.png
