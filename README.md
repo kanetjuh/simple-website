@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanetjuh/simple-website">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/Sfs8Ycm/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Simple Website Template</h3>
